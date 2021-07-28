@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PolyCatGamedev
+- 👀 I’m interested in game development and coding.
+- 🌱 I’m currently learning how to create games in Godot, 3D modeling, sound design and special effects.
+- 💞️ I’m looking to help people by reporting bugs and giving suggestions
