@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PolyCatGamedev
 - 👀 I’m interested in game development, music, art and animation.
-- 🌱 I’m currently learning how to create games in Godot, 3D modeling, drawing, animation and music production.
+- 🌱 I’m currently learning game development, 3D modeling, drawing, animation and music production.
 - 💞️ I’m looking to help people every way I can.
