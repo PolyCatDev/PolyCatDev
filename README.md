@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PolyCatGamedev
+- 👋 Hi, I’m PolyCat
 - 👀 I’m interested in game development, music, art and animation.
 - 🌱 I’m currently learning game development, 3D modeling, drawing, animation and music production.
-- 💞️ I’m looking to help people every way I can.
+- 💞️ I’m looking to help people with constructive criticism, suggestions and design mockups. 
