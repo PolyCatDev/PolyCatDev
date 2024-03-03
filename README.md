@@ -1,4 +1,1 @@
-- 👋 Hi, I’m PolyCat
-- 👀 I’m interested in game development, music, art and animation.
-- 🌱 I’m currently learning game development, 3D modeling, drawing, animation and music production.
-- 💞️ I’m looking to help people with constructive criticism, suggestions and design mockups. 
+Just an artist and programmer that likes penguins and hot chocolate.
