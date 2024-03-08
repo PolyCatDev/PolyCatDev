@@ -6,11 +6,12 @@
 
 ###
 
-<p align="left">(∩｀-´)⊃━☆ﾟ.*･｡ﾟ I Like hacking things together and making them work.</p>
+<p align="left">I Like hacking things together and making them work.</p>
 
 ###
 
 <div align="left">
+  (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
