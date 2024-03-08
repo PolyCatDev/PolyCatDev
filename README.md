@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/PolyCatDev/PolyCatDev/blob/main/blahaj-pet.gif"  />
-
-###
-
-<p align="left">I Like hacking things together and making them work.</p>
+<p align="left">An artist and programmer that likes hacking things together and making them work.</p>
 
 ###
 
