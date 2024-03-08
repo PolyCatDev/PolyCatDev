@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/NG0AinDFug8AAAAi/blahaj-blahaj-pet.gif"  />
+<img align="right" height="150" src="https://github.com/PolyCatDev/PolyCatDev/blob/main/blahaj-pet.gif"  />
 
 ###
 
