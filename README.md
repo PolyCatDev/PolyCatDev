@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I Like hacking things together and making them work. (∩｀-´)⊃━☆ﾟ.*･｡ﾟ</p>
+<p align="left">(∩｀-´)⊃━☆ﾟ.*･｡ﾟ I Like hacking things together and making them work.</p>
 
 ###
 
