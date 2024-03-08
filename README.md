@@ -1,8 +1,5 @@
-<h2 align="left"># Hi, I'm PolyCat</h2>
-
-###
-
-<p align="left">An artist and programmer that likes hacking things together and making them work.</p>
+# Hi, I'm PolyCat
+I like hacking things together and making them work.
 
 ###
 
