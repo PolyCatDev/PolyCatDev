@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">An artist and programmer that likes hacking things together and making them work.</p>
+<p align="left">I Like hacking things together and making them work.</p>
 
 ###
 
