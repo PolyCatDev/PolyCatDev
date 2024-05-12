@@ -21,4 +21,7 @@ I like hacking things together and making them work.
 
 ###
 
-[![PolyCat's GitHub stats](https://github-readme-stats-alpha-livid.vercel.app/api?username=PolyCatDev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="centre"> 
+  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's GitHub stats" src="https://github-readme-stats-alpha-livid.vercel.app/api?username=PolyCatDev&show_icons=true&theme=dark" /> </a>
+  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's most used langueges" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=PolyCatDev&theme=dark&hide=lua" /> </a>
+</div>
