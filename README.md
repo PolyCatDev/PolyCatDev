@@ -20,3 +20,5 @@ I like hacking things together and making them work.
 </div>
 
 ###
+
+[![PolyCat's GitHub stats](https://github-readme-stats-alpha-livid.vercel.app/api?username=PolyCatDev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
