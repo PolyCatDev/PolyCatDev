@@ -1,5 +1,6 @@
-# Hi, I'm PolyCat 
-I like hacking things together and making them work. 
+# Hi, I'm PolyCat
+
+Just an artist and programmer that likes penguins and hot chocolate
 
 ###
 
