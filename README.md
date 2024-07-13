@@ -12,6 +12,8 @@ I like hacking things together and making them work.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
