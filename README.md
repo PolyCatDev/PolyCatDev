@@ -1,5 +1,5 @@
-# Hi, I'm PolyCat
-I like hacking things together and making them work. <img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" height="50">
+# Hi, I'm PolyCat <img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" height="50">
+I like hacking things together and making them work. 
 
 ###
 
