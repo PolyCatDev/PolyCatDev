@@ -9,9 +9,9 @@ Just an artist and programmer that likes penguins and hot chocolate
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
