@@ -23,7 +23,7 @@ Just an artist and programmer that likes penguins and hot chocolate
 ###
 
 <div align="centre"> 
-  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's most used langueges" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=PolyCatDev&theme=dracula&hide=lua" /> </a>
+  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's most used langueges" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=PolyCatDev&theme=dracula&hide=lua,nix,vim%20script" /> </a>
   <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's GitHub stats" src="https://github-readme-stats-alpha-livid.vercel.app/api?username=PolyCatDev&show_icons=true&theme=dracula" /> </a>
   <a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" height="180"></a>
 </div>
