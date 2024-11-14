@@ -21,7 +21,7 @@ Just an artist and programmer that likes penguins and hot chocolate
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 <td>
-<a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" height="130"></a>
+<a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" width="120"></a>
 </table>
 
 
