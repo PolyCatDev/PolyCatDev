@@ -2,9 +2,10 @@
 
 Just an artist and programmer that likes penguins and hot chocolate
 
-###
-
+<table>
 <div align="left">
+  <td>
+  <h3>What I work in:</h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
@@ -19,11 +20,10 @@ Just an artist and programmer that likes penguins and hot chocolate
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
+<td>
+<a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" height="130"></a>
+</table>
 
-###
 
-<div align="centre"> 
-  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's most used langueges" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=PolyCatDev&theme=dracula&hide=lua,nix,vim%20script" /> </a>
-  <a href="https://github.com/PolyCatDev"><img height="150" alt="PolyCat's GitHub stats" src="https://github-readme-stats-alpha-livid.vercel.app/api?username=PolyCatDev&show_icons=true&theme=dracula" /> </a>
-  <a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" height="180"></a>
-</div>
+## Hit counter
+<img src="https://count.getloli.com/@polygit?name=polygit&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=0" height="160" />
