@@ -5,7 +5,7 @@ Just an artist and programmer that likes penguins and hot chocolate
 <table>
 <div align="left">
   <td>
-  <h3>What I work in:</h3>
+  <h4>What I work in</h4>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
@@ -25,5 +25,5 @@ Just an artist and programmer that likes penguins and hot chocolate
 </table>
 
 
-## Hit counter
+### You are number
 <img src="https://count.getloli.com/@polygit?name=polygit&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=0" height="160" />
