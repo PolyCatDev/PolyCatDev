@@ -4,7 +4,7 @@ Just an artist and programmer that likes penguins and hot chocolate
 
 <table>
 <tr>
-<td valign="center">
+<td valign="top">
 <div align="left">
   <h3>What I work in</h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
