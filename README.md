@@ -1,6 +1,6 @@
 # Hi, I'm PolyCat
 
-Just an artist and programmer that likes penguins and hot chocolate
+An artist and programmer that likes penguins and hot chocolate
 
 <table>
 <tr>
