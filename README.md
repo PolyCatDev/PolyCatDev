@@ -4,7 +4,7 @@ Just an artist and programmer that likes penguins and hot chocolate
 
 <table>
 <tr>
-<td valign="top">
+<td valign="center">
 <div align="left">
   <h3>What I work in</h3>
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -21,6 +21,7 @@ Just an artist and programmer that likes penguins and hot chocolate
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
+<img height="10" />
 <td valign="top">
 <a href="https://youtube.com/watch?v=RzM_-YTnQo0"><img src="https://github.com/PolyCatDev/PolyCatDev/blob/main/gifs/kirby-mushroom.gif" alt="Kirby sitting on a mushroom" width="120"></a>
 </tr>
