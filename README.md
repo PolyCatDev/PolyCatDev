@@ -21,7 +21,7 @@ An artist and programmer that likes penguins and hot chocolate
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redhat" height="30" alt="red hat logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="GOlang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
