@@ -17,9 +17,9 @@ An artist and programmer that likes penguins and hot chocolate
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="Arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="GOlang logo"  />
   <img width="12" />
