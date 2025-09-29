@@ -31,6 +31,7 @@ An artist and programmer that likes penguins and hot chocolate
 </tr>
 </table>
 
-
+<!--
 ## You are number
 <img src="https://count.getloli.com/@polygit?name=polygit&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=0" alt="Visitor counter" />
+-->
