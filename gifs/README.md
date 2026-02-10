@@ -1,1 +1,1 @@
-Assets that moght be used in account README
+Assets that might be used in account README
