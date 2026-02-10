@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm PolyCat</h1>
-<p align="center">
+<h1 align="left">Hi, I'm PolyCat</h1>
+<p align="left">
 An artist and programmer that likes penguins and hot chocolate.
 </p>
-<h1 align="center">My Tools</h1>
+<h1 align="left">My Tools</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,godot,blender,bash,linux,astro,arduino,go,docker" alt="My skill icons"/>
 </p>
 <p>
