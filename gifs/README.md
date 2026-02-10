@@ -1,2 +1,1 @@
-# What is this?
-You find my super secret gif collection :3
+Assets that moght be used in account README
