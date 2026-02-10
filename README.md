@@ -3,7 +3,7 @@
 An artist and programmer that likes penguins and hot chocolate.
 </p>
 
-<h1 align="center">My Tools</h1>
+<h1 align="center">My Tools of Choice</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,godot,blender,bash,linux,astro,arduino,go,docker" alt="My skill icons"/>
