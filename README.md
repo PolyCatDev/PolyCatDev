@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Hi, I'm PolyCat 🌸</h1>
 <p align="center">
-An artist and programmer that likes penguins and hot chocolate.
+An artist and programmer that likes penguins and hot chocolate
 </p>
 
 <h1 align="center">My Tools</h1>
